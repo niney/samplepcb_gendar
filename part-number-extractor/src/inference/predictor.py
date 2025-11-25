@@ -17,17 +17,25 @@ from src.data_preparation.preprocessor import BOMDataPreprocessor
 
 class PartNumberPredictor:
     """Part Number 추론 엔진"""
+    
+    # Model type to pretrained model name mapping
+    MODEL_TYPE_MAPPING = {
+        'deberta-v2': 'microsoft/deberta-v3-base',
+        'deberta': 'microsoft/deberta-base',
+        'roberta': 'roberta-base',
+        'bert': 'bert-base-uncased',
+    }
 
     def __init__(
         self,
         model_path: str,
-        tokenizer_name: str = 'bert-base-uncased',
+        tokenizer_name: Optional[str] = None,
         device: Optional[str] = None
     ):
         """
         Args:
             model_path: Path to trained model, or "__demo__" for demo mode
-            tokenizer_name: Name of tokenizer
+            tokenizer_name: Name of tokenizer (auto-detected from model config if not provided)
             device: Device to run inference on (cuda/cpu)
         """
         # Set device
@@ -38,13 +46,12 @@ class PartNumberPredictor:
 
         print(f"Loading model on {self.device}...")
 
-        # Load tokenizer
-        self.tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
-
         # Demo mode - create untrained model for testing
         if model_path == "__demo__":
+            effective_tokenizer = tokenizer_name or 'bert-base-uncased'
             print("Creating demo model (untrained - for testing only)...")
-            self.model = create_model(model_name=tokenizer_name)
+            self.tokenizer = AutoTokenizer.from_pretrained(effective_tokenizer)
+            self.model = create_model(model_name=effective_tokenizer)
             self.model.to(self.device)
             self.model.eval()
             self.preprocessor = BOMDataPreprocessor(self.tokenizer)
@@ -63,13 +70,24 @@ class PartNumberPredictor:
             safetensors_file = model_path_obj / 'model.safetensors'
             
             if config_file.exists() and (model_file.exists() or safetensors_file.exists()):
-                # Create model and load state dict directly
+                # Load config to detect model type
                 import json
                 with open(config_file) as f:
                     config_data = json.load(f)
                 
+                # Auto-detect model name from config
+                model_type = config_data.get('model_type', 'bert')
+                detected_model_name = self.MODEL_TYPE_MAPPING.get(model_type, 'bert-base-uncased')
+                
+                # Use provided tokenizer_name or detected model name
+                effective_model_name = tokenizer_name or detected_model_name
+                print(f"Detected model type: {model_type}, using: {effective_model_name}")
+                
+                # Load tokenizer
+                self.tokenizer = AutoTokenizer.from_pretrained(effective_model_name)
+                
                 # Create model with same architecture
-                self.model = create_model(model_name=tokenizer_name, num_labels=3)
+                self.model = create_model(model_name=effective_model_name, num_labels=3)
                 
                 # Load state dict
                 if safetensors_file.exists():
@@ -78,7 +96,7 @@ class PartNumberPredictor:
                     self.model.load_state_dict(state_dict)
                     print(f"Loaded model weights from {safetensors_file}")
                 elif model_file.exists():
-                    state_dict = torch.load(model_file, map_location=self.device)
+                    state_dict = torch.load(model_file, map_location=self.device, weights_only=True)
                     self.model.load_state_dict(state_dict)
                     print(f"Loaded model weights from {model_file}")
             else:
@@ -88,6 +106,8 @@ class PartNumberPredictor:
                 )
         else:
             # Try loading from Hugging Face Hub
+            effective_tokenizer = tokenizer_name or 'bert-base-uncased'
+            self.tokenizer = AutoTokenizer.from_pretrained(effective_tokenizer)
             try:
                 self.model = BOMPartNumberNER.from_pretrained(model_path)
             except Exception as e:
