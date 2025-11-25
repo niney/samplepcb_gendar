@@ -1,0 +1,36 @@
+# Configuration for BERT-base model training
+
+model:
+  name: bert-base-uncased
+  num_labels: 3
+  dropout: 0.1
+
+training:
+  num_epochs: 30
+  batch_size: 4
+  learning_rate: 5e-5
+  warmup_ratio: 0.1
+  weight_decay: 0.01
+  
+  optimizer: adamw
+  scheduler: linear
+  
+  gradient_accumulation_steps: 2
+  max_grad_norm: 1.0
+  
+  fp16: true
+  
+  # Early stopping
+  early_stopping_patience: 3
+
+data:
+  max_length: 512
+  train_split: 0.7
+  val_split: 0.15
+  test_split: 0.15
+
+logging:
+  log_dir: logs
+  save_steps: 500
+  eval_steps: 500
+  logging_steps: 100
