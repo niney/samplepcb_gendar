@@ -15,8 +15,8 @@ from src.model.ner_model import BOMPartNumberNER, create_model
 from src.data_preparation.preprocessor import BOMDataPreprocessor
 
 
-class PartNumberPredictor:
-    """Part Number 추론 엔진"""
+class SpPartNumberPredictor:
+    """Part Number 추론 엔진 (SamplePCB)"""
     
     # Model type to pretrained model name mapping
     MODEL_TYPE_MAPPING = {

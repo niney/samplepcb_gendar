@@ -18,7 +18,7 @@ try:
 except ImportError:
     HAS_COLORAMA = False
 
-from src.inference.predictor import PartNumberPredictor
+from src.inference.predictor import SpPartNumberPredictor
 
 
 class InteractivePredictor:
@@ -30,7 +30,7 @@ class InteractivePredictor:
         else:
             print(f"Loading model from {model_path}...")
             
-        self.predictor = PartNumberPredictor(model_path)
+        self.predictor = SpPartNumberPredictor(model_path)
         
         if HAS_COLORAMA:
             print(f"{Fore.GREEN}Model loaded successfully!\n")

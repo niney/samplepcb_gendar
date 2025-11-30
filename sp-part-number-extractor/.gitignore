@@ -25,6 +25,8 @@ models/test_run/
 # Data Files
 data/raw/*
 data/processed/*
+data/samples/*
+data/prod/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 

@@ -530,7 +530,7 @@ def extract_part_number_position(label_sequence):
 ```python
 import torch
 
-class PartNumberPredictor:
+class SpPartNumberPredictor:
     """Part Number 추론 엔진"""
 
     def __init__(self, model_path, tokenizer_name='bert-base-uncased'):
@@ -925,7 +925,7 @@ from pathlib import Path
 import sys
 sys.path.append(str(Path(__file__).parent.parent))
 
-from src.inference.predictor import PartNumberPredictor
+from src.inference.predictor import SpPartNumberPredictor
 
 def main():
     parser = argparse.ArgumentParser(description='Predict Part Numbers from BOM file')
@@ -941,7 +941,7 @@ def main():
 
     # 모델 로드
     print(f"Loading model from {args.model_path}...")
-    predictor = PartNumberPredictor(args.model_path)
+    predictor = SpPartNumberPredictor(args.model_path)
 
     # 입력 파일 읽기
     print(f"Reading input file: {args.input_file}")
@@ -982,11 +982,11 @@ if __name__ == '__main__':
 # Linux/Mac: source venv/bin/activate
 
 # 기본 추론
-python scripts/predict.py --model_path models/best_model --input_file data/new_bom.csv
+python scripts/predict.py --model_path models/checkpoint/final_model --input_file data/new_bom.csv
 
 # 신뢰도 임계값 조정
 python scripts/predict.py \
-    --model_path models/best_model \
+    --model_path models/checkpoint/final_model \
     --input_file data/new_bom.xlsx \
     --output_file results/predictions.csv \
     --confidence_threshold 0.8
@@ -1082,12 +1082,12 @@ print(f"Validation Results: {eval_results}")
 
 from fastapi import FastAPI, UploadFile, File
 import pandas as pd
-from src.inference.predictor import PartNumberPredictor
+from src.inference.predictor import SpPartNumberPredictor
 
 app = FastAPI(title="Part Number Extractor - Local")
 
 # 모델 로드
-predictor = PartNumberPredictor('./models/best_model')
+predictor = SpPartNumberPredictor('./models/checkpoint/final_model')
 
 @app.post("/predict/file")
 async def predict_file(file: UploadFile = File(...)):
@@ -1491,7 +1491,7 @@ python scripts/train_interactive.py
 
 from colorama import init, Fore, Style
 import pandas as pd
-from src.inference.predictor import PartNumberPredictor
+from src.inference.predictor import SpPartNumberPredictor
 import sys
 
 init(autoreset=True)
@@ -1501,7 +1501,7 @@ class InteractivePredictor:
 
     def __init__(self, model_path):
         print(f"{Fore.CYAN}Loading model from {model_path}...")
-        self.predictor = PartNumberPredictor(model_path)
+        self.predictor = SpPartNumberPredictor(model_path)
         print(f"{Fore.GREEN}Model loaded successfully!\n")
 
     def predict_single_row(self):
@@ -1649,7 +1649,7 @@ if __name__ == '__main__':
 # Linux/Mac: source venv/bin/activate
 
 # 대화형 예측 시작
-python scripts/predict_interactive.py --model_path models/best_model
+python scripts/predict_interactive.py --model_path models/checkpoint/final_model
 
 # 모드 선택:
 # 1. 단일 행 입력 -> 즉시 결과 확인
@@ -1864,8 +1864,8 @@ tqdm>=4.65.0           # 진행률 표시
 1. 로컬 개발 환경 구축
    ```bash
    # 프로젝트 디렉토리 생성
-   mkdir part-number-extractor
-   cd part-number-extractor
+   mkdir sp-part-number-extractor
+   cd sp-part-number-extractor
 
    # [중요] venv 가상환경 생성 (필수)
    python -m venv venv
@@ -1879,7 +1879,7 @@ tqdm>=4.65.0           # 진행률 표시
    source venv/bin/activate
 
    # 활성화 확인 - 프롬프트에 (venv) 표시 확인
-   # 예: (venv) C:\part-number-extractor>
+   # 예: (venv) C:\sp-part-number-extractor>
 
    # pip 업그레이드
    python -m pip install --upgrade pip

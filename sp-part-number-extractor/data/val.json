@@ -1,0 +1,2091 @@
+[
+  {
+    "row_id": "012",
+    "cells": [
+      "744230900",
+      "CMC 550MA 2LN 90OHM SMD AEC-Q200",
+      "Würth Elektronik",
+      "SMD"
+    ],
+    "labels": [
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "001",
+    "cells": [
+      "A1",
+      "P822601",
+      "RF ANT 700MHZ/750MHZ FLAT BAR",
+      "1",
+      "KYOCERA AVX"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "027",
+    "cells": [
+      "R1,R93,R85",
+      "CRCW06031K20JNEA",
+      "RES SMD 1.2K OHM 5% 1/8W 0603",
+      "3",
+      "Vishay Dale",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "007",
+    "cells": [
+      "U1",
+      "BQ24040DSQT",
+      "IC BATT CHG LI-ION 1CELL 10SON",
+      "1",
+      "Texas Instruments",
+      "10‑pin SON (DSQ)"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "002",
+    "cells": [
+      "CKG45KX7R2J104K290JJ",
+      "CAP CER 0.1UF 630V X7R SMD",
+      "4",
+      "TDK Corporation",
+      "28"
+    ],
+    "labels": [
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "041",
+    "cells": [
+      "R50 R61",
+      "RC0402FR-07100RP",
+      "RES 100 OHM 1% 1/16W 0402",
+      "2",
+      "YAGEO",
+      "0402"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "005",
+    "cells": [
+      "C13",
+      "C3225X7R1H225K250AB",
+      "CAP CER 2.2UF 50V X7R 1210",
+      "1",
+      "TDK Corporation"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "022",
+    "cells": [
+      "RN1, RN3, RN4",
+      "EXB-38V472JV",
+      "RES ARRAY 4 RES 4.7K OHM 1206",
+      "3",
+      "Panasonic Electronic Components",
+      "4x0603"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "026",
+    "cells": [
+      "L12",
+      "LQG15HS3N6S02D",
+      "FIXED IND 3.6NH 750MA 0.18OHM SM",
+      "46",
+      "Murata Electronics",
+      "0402/1005"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "012",
+    "cells": [
+      "U3",
+      "MC33275ST-3.3T3G",
+      "IC REG LINEAR 3.3V 300MA SOT-223",
+      "36",
+      "onsemi",
+      "SOT-223-3_TabPin2"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "005",
+    "cells": [
+      "U12,U13",
+      "TLE9250VLEXUMA1",
+      "IC TRANSCEIVER 1/1 PGTSON81",
+      "10",
+      "Infineon Technologies",
+      "PG-TSON-8"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "Q1, Q7, Q9",
+      "SI2365EDS-T1-GE3",
+      "MOSFET P-CH 20V 5.9A TO236",
+      "3",
+      "Vishay Siliconix",
+      "SOT23-3"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "003",
+    "cells": [
+      "U1,U2",
+      "74HC244D",
+      "IC BUFFER NON-INVERT 6V 20-SOIC",
+      "2",
+      "Toshiba Semiconductor and Storage",
+      "SOIC20"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "017",
+    "cells": [
+      "L1",
+      "NR8040T4R7N",
+      "FIXED IND 4.7UH 4.1A 23.4MOHM SM",
+      "1",
+      "Taiyo Yuden",
+      "NR-80xx"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "021",
+    "cells": [
+      "U3",
+      "TPS54232D",
+      "IC REG BUCK ADJ 2A 8SOIC",
+      "1",
+      "Texas Instruments",
+      "SOIC-8"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "Q3, Q4, Q5, Q6",
+      "MMDT5401",
+      "150V 200MW 600MA PNP SOT-363",
+      "30",
+      "Shenzhen Slkormicro Semicon Co., Ltd.",
+      "SOT363-6/ SC-88/ SC70-6"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "017",
+    "cells": [
+      "U1",
+      "CAP1203-1-AC3-TR",
+      "IC TOUCH SENSOR CAP 3CH 8TDFN",
+      "11",
+      "Microchip Technology",
+      "SON50P300X200X80-9N"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "013",
+    "cells": [
+      "FB10",
+      "BLM18KG121TN1D",
+      "FERRITE BEAD 120 OHM 0603 1LN",
+      "1",
+      "Murata Electronics",
+      "0603/1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "008",
+    "cells": [
+      "Z1",
+      "BZT52C10-TP",
+      "DIODE ZENER 10V 500MW SOD123",
+      "45",
+      "MCC (Micro Commercial Components)",
+      "SOD-123"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "014",
+    "cells": [
+      "L2, L3, L4",
+      "DFE252010P-R47M=P2",
+      "FIXED IND 470NH 3.5A 0.035OHM SM",
+      "3",
+      "Murata Electronics",
+      "FP-DFE252010C-IPC_A"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "022",
+    "cells": [
+      "U13",
+      "MCP601T-I/OT",
+      "IC OPAMP GP 1 CIRCUIT SOT23-5",
+      "75",
+      "Microchip Technology",
+      "SOT23-5"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "011",
+    "cells": [
+      "Q2",
+      "NX6008NBKR",
+      "NX6008NBK/SOT23/TO-236AB",
+      "19",
+      "Nexperia USA Inc.",
+      "SOT23-3"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "008",
+    "cells": [
+      "DM3AT-SF-PEJM5",
+      "CONN MICRO SD CARD R/A SMD",
+      "85",
+      "Hirose Electric Co Ltd",
+      "Micro SD"
+    ],
+    "labels": [
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "033",
+    "cells": [
+      "R23,R57,R61,R63",
+      "CRCW060310K0FKEA",
+      "RES SMD 10K OHM 1% 1/8W 0603",
+      "4",
+      "Vishay Dale",
+      "0603"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "009",
+    "cells": [
+      "D1",
+      "S1BB-13-F",
+      "DIODE STANDARD 100V 1A SMB",
+      "1",
+      "Diodes Incorporated",
+      "SMB"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "022",
+    "cells": [
+      "D22",
+      "PSM712-LF-T7",
+      "TVS DIODE 12VWM 7VWM SOT23",
+      "32",
+      "UMW",
+      "SOT23-3"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "025",
+    "cells": [
+      "FB1, FB2, FB3, FB4",
+      "BLM18KG121TN1D",
+      "FERRITE BEAD 120 OHM 0603 1LN",
+      "4",
+      "Murata Electronics",
+      "0603/1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "015",
+    "cells": [
+      "J4, J5",
+      "10236-55G3PL",
+      "CONN RCPT 36POS R/A SOLDER",
+      "2",
+      "3M",
+      "20"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "C22, C23, C33",
+      "CL21A106KAYNNNG",
+      "CAP CER 10UF 25V X5R 0805",
+      "3",
+      "Samsung Electro-Mechanics",
+      "0805"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "027",
+    "cells": [
+      "U3",
+      "L5150BNTR",
+      "IC REG LINEAR 5V 150MA SOT-223",
+      "1",
+      "STMicroelectronics",
+      "SOT-223-3_TabPin2"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "005",
+    "cells": [
+      "U3",
+      "LIS2DH12TR",
+      "ACCEL 2-16G I2C/SPI 12LGA",
+      "1",
+      "STMicroelectronics"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "C162, C163, C164",
+      "865060453006",
+      "CAP ALUM 150UF 20% 25V SMD",
+      "4",
+      "Würth Elektronik",
+      "8.0MM"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "024",
+    "cells": [
+      "L2, L4",
+      "NRS5040T470MMGJ",
+      "FIXED IND 47UH 900MA 403MOHM SMD",
+      "48",
+      "Taiyo Yuden",
+      "5040"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "008",
+    "cells": [
+      "L7, L8",
+      "CIGT201610EH2R2MNE",
+      "FIXED IND 2.2UH 2.5A 87MOHM SMD",
+      "2",
+      "Samsung Electro-Mechanics",
+      "0806"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "015",
+    "cells": [
+      "U14",
+      "H1102NL",
+      "MODULE XFRMR SGL ETHR LAN 16SOIC",
+      "1",
+      "Pulse Electronics"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "012",
+    "cells": [
+      "U10",
+      "MAX3232CPWR",
+      "IC TRANSCEIVER FULL 2/2 16TSSOP",
+      "64",
+      "Texas Instruments",
+      "TSSOP"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "FB2, FB3",
+      "BLM18AG121SN1D",
+      "FERRITE BEAD 120 OHM 0603 1LN",
+      "12",
+      "Murata Electronics",
+      "0603/1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "013",
+    "cells": [
+      "U7, U16, U18, U19, U22, U25",
+      "R12P22005D",
+      "DC DC CONVERTER 20V -5V 2W",
+      "60",
+      "Recom Power",
+      "6"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "012",
+    "cells": [
+      "FB1, FB2, FB3, FB4, FB5, FB6, FB7, FB8, FB9, FB10, FB11, FB12, FB13, FB14, FB15, FB16, FB17, FB18, FB19, FB20, FB21, FB22",
+      "BLM18AG121SN1D",
+      "FERRITE BEAD 120 OHM 0603 1LN",
+      "22",
+      "Murata Electronics",
+      "0603/1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "008",
+    "cells": [
+      "U2",
+      "AP62300WU-7",
+      "IC REG BUCK ADJ 3A TSOT26",
+      "1",
+      "Diodes Incorporated",
+      "TSOT26-6 / SOT95P280X100-6N"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "058",
+    "cells": [
+      "R74,R75,R76,R77",
+      "RC0603FR-07120RL",
+      "RES 120 OHM 1% 1/10W 0603",
+      "4",
+      "YAGEO",
+      "0603"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "006",
+    "cells": [
+      "U$4",
+      "DF13-6P-1.25DSA",
+      "CONN HEADER VERT 6POS 1.25MM",
+      "1",
+      "Hirose Electric Co Ltd"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "021",
+    "cells": [
+      "Y4",
+      "ABLS-6.144MHZ-B4-T",
+      "CRYSTAL 6.1440MHZ 18PF SMD",
+      "1",
+      "Abracon LLC"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "C17",
+      "0805B105K500CT",
+      "CAP CER 1UF 50V X7R 0805",
+      "10",
+      "Walsin Technology Corporation",
+      "0805"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "001",
+    "cells": [
+      "C9",
+      "C2012",
+      "GROMMET TPE PA66 BLACK",
+      "1",
+      "Heyco Products Corporation",
+      "0805"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "028",
+    "cells": [
+      "R1966ABLKBLKGR",
+      "SWITCH ROCKER SPST 15A 125V",
+      "65",
+      "E-Switch"
+    ],
+    "labels": [
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "008",
+    "cells": [
+      "R1",
+      "WSL2010R0100FEA",
+      "RES 0.01 OHM 1% 1/2W 2010",
+      "1",
+      "Vishay Dale",
+      "O"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "005",
+    "cells": [
+      "D4",
+      "SMF40CA-TP",
+      "TVS DIODE 40VWM 64.5VC SOD123FL",
+      "13",
+      "MCC (Micro Commercial Components)",
+      "DO-214AA"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "011",
+    "cells": [
+      "U5",
+      "DF13-3P-1.25DSA",
+      "CONN HEADER VERT 3POS 1.25MM",
+      "1",
+      "Hirose Electric Co Ltd"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "009",
+    "cells": [
+      "C71",
+      "NON-INS RING TRM 12-10 BOLT 1/4",
+      "9",
+      "ABB Electrification (Thomas and Betts)",
+      "0402/1005"
+    ],
+    "labels": [
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "039",
+    "cells": [
+      "U13, U15",
+      "LM2904ADMR2G",
+      "IC OPAMP GP 2 CIRCUIT 8MSOP",
+      "29",
+      "onsemi",
+      "MSOP-8 / SOP65P490X110-8N"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "026",
+    "cells": [
+      "IC1",
+      "SHT45-AD1B-R3",
+      "SENSOR HUMID/TEMP HIGH ACCURACY",
+      "10",
+      "Sensirion AG",
+      "3030"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "007",
+    "cells": [
+      "R7",
+      "CRCW060310K0FKEA",
+      "RES SMD 10K OHM 1% 1/8W 0603",
+      "1",
+      "Vishay Dale",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "019",
+    "cells": [
+      "U7",
+      "AD9838ACPZ-RL7",
+      "IC DDS 5MHZ 10BIT 20LFCSP",
+      "1",
+      "Analog Devices Inc.",
+      "FP-CP-20-10-IPC_B"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "020",
+    "cells": [
+      "R4",
+      "RC0603FR-07137KL",
+      "RES 137K OHM 1% 1/10W 0603",
+      "1",
+      "YAGEO",
+      "0603"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "021",
+    "cells": [
+      "U10",
+      "TLV2464ID",
+      "IC OPAMP GP 4 CIRCUIT 14SOIC",
+      "73",
+      "Texas Instruments",
+      "R-PDSO-G"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "019",
+    "cells": [
+      "R3",
+      "RMCF0603FG24K0",
+      "RES 24K OHM 1% 1/10W 0603",
+      "1",
+      "Stackpole Electronics Inc",
+      "0603"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "028",
+    "cells": [
+      "U17",
+      "TPS3422EGDRYR",
+      "IC SUPERVISOR 2 CHANNEL 6SON",
+      "1",
+      "Texas Instruments",
+      "USON-6"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "021",
+    "cells": [
+      "ERJ-1GNF2002C",
+      "RES SMD 20K OHM 1% 1/20W 0201",
+      "Panasonic Electronic Components",
+      "0603"
+    ],
+    "labels": [
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "002",
+    "cells": [
+      "IC34, IC35, IC36, IC37, IC38, IC39",
+      "QS3384QG8",
+      "IC BUS SWITCH 5 X 1:1 24-QSOP",
+      "16",
+      "Renesas Electronics Corporation",
+      "SOP64P602X173-24N"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "020",
+    "cells": [
+      "CN1",
+      "USB4105-GF-A",
+      "CONN RCP USB2.0 TYP C 16P SMD RA",
+      "1",
+      "GCT"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "042",
+    "cells": [
+      "U19",
+      "TPS78533QWDRBRQ1",
+      "IC REG LINEAR 3.3V 1A 8-SON",
+      "32",
+      "Texas Instruments",
+      "VSON-8 / SON-8"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "010",
+    "cells": [
+      "C71",
+      "NON-INS RING TRM 12-10 BOLT 1/4",
+      "9",
+      "ABB Electrification (Thomas and Betts)",
+      "0402/1005"
+    ],
+    "labels": [
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "001",
+    "cells": [
+      "CN1",
+      "USB4105-GF-A",
+      "CONN RCP USB2.0 TYP C 16P SMD RA",
+      "1",
+      "GCT"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "009",
+    "cells": [
+      "U$6",
+      "DF13-4P-1.25DSA",
+      "CONN HEADER VERT 4POS 1.25MM",
+      "1",
+      "Hirose Electric Co Ltd"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "018",
+    "cells": [
+      "R5, R15, R16, R19, R22",
+      "ERJ-2RKF4701X",
+      "RES SMD 4.7K OHM 1% 1/10W 0402",
+      "5",
+      "Panasonic Electronic Components"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "008",
+    "cells": [
+      "U10",
+      "TPD3F303DPVR",
+      "FILTER RC(PI) 47 OHMS ESD SMD",
+      "1",
+      "Texas Instruments",
+      "SON50P160X210X65-9N"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "007",
+    "cells": [
+      "L8",
+      "74437349220",
+      "FIXED IND 22UH 2.1A 0.17OHM SMD",
+      "1",
+      "Würth Elektronik",
+      "SMD"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "003",
+    "cells": [
+      "Q1,Q2,Q3,Q4,Q5,Q6,Q8,Q9,Q10,Q11,Q12,Q14,Q16,Q18,Q20,Q22,Q24,Q26,Q28,Q30,Q32,Q34,Q36,Q37,Q38,Q39,Q41",
+      "SFH617A-1X007T",
+      "OPTOISOLTR 5.3KV 1CH TRANS 4-SMD",
+      "36",
+      "Vishay Semiconductor Opto Division",
+      "SMD"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "039",
+    "cells": [
+      "R78",
+      "CRCW120647K0JNEA",
+      "RES SMD 47K OHM 5% 1/4W 1206",
+      "1",
+      "Vishay Dale",
+      "3216"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "002",
+    "cells": [
+      "B22",
+      "1054500101",
+      "CONN RCP USB3.1 TYPEC 24P SMD RA",
+      "1",
+      "Molex"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "019",
+    "cells": [
+      "U1",
+      "AP63205WU-7",
+      "IC REG BUCK 5V 2A TSOT23-6",
+      "1",
+      "Diodes Incorporated"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "008",
+    "cells": [
+      "U2",
+      "TPS78533QWDRBRQ1",
+      "IC REG LINEAR 3.3V 1A 8-SON",
+      "1",
+      "Texas Instruments",
+      "VSON-8 / SON-8"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "014",
+    "cells": [
+      "U16",
+      "MAX485CSA",
+      "IC TRANSCEIVER HALF 1/1 8SOIC",
+      "1",
+      "Analog Devices Inc./Maxim Integrated",
+      "SOIC-8"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "002",
+    "cells": [
+      "U2",
+      "MT25QL01GBBB8E12-0SIT",
+      "IC FLASH 1GBIT SPI 24TPBGA",
+      "2",
+      "Micron Technology Inc.",
+      "BGA24C100P5X5_600X800X120"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "007",
+    "cells": [
+      "D3, D6, D9, D12, D33, D34",
+      "ES2G-13-F",
+      "DIODE STANDARD 400V 2A SMB",
+      "25",
+      "Diodes Incorporated",
+      "SMB DO214AA"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "C9, C10, C11, C12, C14",
+      "CL10C470FB81PNC",
+      "CAP CER 47PF 50V C0G/NP0 0603",
+      "6",
+      "Samsung Electro-Mechanics",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "FB3, FB4, FB5, FB6, FB7, FB8, FB9, FB10, FB11, FB12, FB13, FB14, FB15, FB16",
+      "BLM18AG121SN1D",
+      "FERRITE BEAD 120 OHM 0603 1LN",
+      "14",
+      "Murata Electronics",
+      "0603/1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "038",
+    "cells": [
+      "U13",
+      "OPA548FKTWT",
+      "IC POWER 1 CIRCUIT DDPAK/TO263-7",
+      "1",
+      "Texas Instruments",
+      "TWT"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "J5",
+      "2452796-1",
+      "CONN NANO SIM CARD R/A SMD",
+      "1",
+      "TE Connectivity Linx",
+      "NSIM-8-B"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "005",
+    "cells": [
+      "FB1",
+      "BLM18SD220SN1D",
+      "FERRITE BEAD 22 OHM 0603 1LN",
+      "1",
+      "Murata Electronics",
+      "0603"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "005",
+    "cells": [
+      "C13",
+      "CL10B104KC8NNNC",
+      "CAP CER 0.1UF 100V X7R 0603",
+      "7",
+      "Samsung Electro-Mechanics",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "012",
+    "cells": [
+      "U7",
+      "AZ1117EH-3.3TRG1",
+      "IC REG LINEAR 3.3V 1A SOT-223-3",
+      "1",
+      "Diodes Incorporated",
+      "SOT-223"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "025",
+    "cells": [
+      "R22",
+      "CRCW06036K80FKEA",
+      "RES SMD 6.8K OHM 1% 1/8W 0603",
+      "1",
+      "Vishay Dale",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "031",
+    "cells": [
+      "FB10",
+      "BLM18KG121TN1D",
+      "FERRITE BEAD 120 OHM 0603 1LN",
+      "19",
+      "Murata Electronics",
+      "0603/1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "010",
+    "cells": [
+      "BZ1",
+      "AVRM1608C390KT271N",
+      "VARISTOR 39V 78A 0603",
+      "18",
+      "TDK Corporation",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "017",
+    "cells": [
+      "ECS-250-10-36-CKM-TR",
+      "CRYSTAL 25.0000MHZ 10PF SMD",
+      "1",
+      "ECS Inc.",
+      "2520"
+    ],
+    "labels": [
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "012",
+    "cells": [
+      "U5",
+      "MAX98357AETE+T",
+      "IC AMP CLASS D MONO 3.2W 16TQFN",
+      "1",
+      "Analog Devices Inc./Maxim Integrated",
+      "TQFN-16"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "001",
+    "cells": [
+      "C8, C9, C46",
+      "GRM32EC72A106KE05L",
+      "CAP CER 10UF 100V X7S 1210",
+      "8",
+      "Murata Electronics",
+      "1210/3225"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "031",
+    "cells": [
+      "U9",
+      "AT24C04D-STUM-T",
+      "IC EEPROM 4KBIT I2C 1MHZ SOT23-5",
+      "1",
+      "Microchip Technology",
+      "SOT-23-5"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "007",
+    "cells": [
+      "C10, C11, C12",
+      "GRM21BR60J226ME39L",
+      "CAP CER 22UF 6.3V X5R 0805",
+      "3",
+      "Murata Electronics"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "021",
+    "cells": [
+      "L8",
+      "SLF12575T-470M2R7-PF",
+      "FIXED IND 47UH 3A 63.4 MOHM SMD",
+      "41",
+      "TDK Corporation",
+      "SRR1260"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "016",
+    "cells": [
+      "J6, J7",
+      "61201021721",
+      "CONN HEADER R/A 10POS 2.54MM",
+      "2",
+      "Würth Elektronik"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "015",
+    "cells": [
+      "IC13",
+      "SN65HVD77DGKR",
+      "IC TRANSCEIVER FULL 1/1 8VSSOP",
+      "1",
+      "Texas Instruments",
+      "8-VSSOP"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "019",
+    "cells": [
+      "IC27",
+      "LM60CIM3",
+      "SENSOR ANALOG -40C-125C SOT23-3",
+      "1",
+      "Texas Instruments",
+      "SOT-23-3"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "U1, U2",
+      "TPS78533QWDRBRQ1",
+      "IC REG LINEAR 3.3V 1A 8-SON",
+      "37",
+      "Texas Instruments",
+      "VSON-8 / SON-8"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "001",
+    "cells": [
+      "L1",
+      "BLM03PG330SN1D",
+      "FERRITE BEAD 33 OHM 0201 1LN",
+      "20",
+      "Murata Electronics"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "026",
+    "cells": [
+      "R24,R19,R21",
+      "CRCW0603100RJNEA",
+      "RES SMD 100 OHM 5% 1/8W 0603",
+      "20",
+      "Vishay Dale",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "028",
+    "cells": [
+      "R31,R36,R38,R41,R44,R47,R50,R53,R74,R76,R77,R80,R81",
+      "CRCW06034K70JNEA",
+      "RES SMD 4.7K OHM 5% 1/8W 0603",
+      "13",
+      "Vishay Dale",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "012",
+    "cells": [
+      "U9",
+      "XC6206P332MR",
+      "IC REG LINEAR 3.3V 100MA SOT23",
+      "24",
+      "UMW",
+      "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "012",
+    "cells": [
+      "U8",
+      "STM32F767IIK6",
+      "IC MCU 32BIT 2MB FLASH 176UFBGA",
+      "1",
+      "STMicroelectronics",
+      "BGA176"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "010",
+    "cells": [
+      "D7, D8, D9, D10, D11, D12, D13, D20, D21",
+      "MMSD4148",
+      "DIODE STANDARD 100V 200MA SOD123",
+      "15",
+      "onsemi",
+      "SOD-123"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "Q12",
+      "NX6008NBKR",
+      "NX6008NBK/SOT23/TO-236AB",
+      "1",
+      "Nexperia USA Inc.",
+      "SOT23-3"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "047",
+    "cells": [
+      "Y1",
+      "ECS-250-10-36-CKM-TR",
+      "CRYSTAL 25.0000MHZ 10PF SMD",
+      "58",
+      "ECS Inc.",
+      "2520"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "016",
+    "cells": [
+      "U22, U23",
+      "NCP51820AMNTWG",
+      "IC GATE DRVR HALF-BRIDGE HI SPD",
+      "2",
+      "onsemi",
+      "QFN15"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "004",
+    "cells": [
+      "ICS-41350",
+      "MIC MEMS DIGITAL PDM OMNI -32DB",
+      "4",
+      "TDK InvenSense",
+      "LGA"
+    ],
+    "labels": [
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "037",
+    "cells": [
+      "R25,R84",
+      "CRCW0603100KJNEA",
+      "RES SMD 100K OHM 5% 1/8W 0603",
+      "2",
+      "Vishay Dale",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "002",
+    "cells": [
+      "C8",
+      "CL10B224KB8VPNC",
+      "CAP CER 0.22UF 50V X7R 0603",
+      "4",
+      "Samsung Electro-Mechanics",
+      "1608"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "033",
+    "cells": [
+      "C18, C27",
+      "CC0805MKX7R7BB106",
+      "CAP CER 10UF 16V X7R 0805",
+      "2",
+      "YAGEO",
+      "0805"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "013",
+    "cells": [
+      "L3",
+      "DFE252010P-R47M=P2",
+      "FIXED IND 470NH 3.5A 0.035OHM SM",
+      "1",
+      "Murata Electronics"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER"
+    ]
+  },
+  {
+    "row_id": "063",
+    "cells": [
+      "R11",
+      "ERJ-8BQFR43V",
+      "RES 0.43 OHM 1% 1/2W 1206",
+      "1",
+      "Panasonic Electronic Components",
+      "1206"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "014",
+    "cells": [
+      "Q1",
+      "AO3400",
+      "MOSFET N-CH 30V 5.8A SOT23-3",
+      "24",
+      "Alpha & Omega Semiconductor Inc.",
+      "SOT23-3"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  },
+  {
+    "row_id": "010",
+    "cells": [
+      "C12",
+      "HMK212B7104KGHT",
+      "CAP CER 0.1UF 100V X7R 0805",
+      "1",
+      "Taiyo Yuden",
+      "C2012"
+    ],
+    "labels": [
+      "REFERENCE",
+      "PART_NUMBER",
+      "DESCRIPTION",
+      "QUANTITY",
+      "MANUFACTURER",
+      "PACKAGE"
+    ]
+  }
+]

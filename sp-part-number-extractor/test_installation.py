@@ -110,7 +110,7 @@ def test_module_imports():
         return False
     
     try:
-        from src.inference.predictor import PartNumberPredictor
+        from src.inference.predictor import SpPartNumberPredictor
         print("✓ src.inference.predictor")
     except ImportError as e:
         print(f"✗ src.inference.predictor: {e}")

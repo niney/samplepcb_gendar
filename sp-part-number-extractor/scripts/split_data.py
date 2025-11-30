@@ -14,13 +14,45 @@ sys.path.append(str(Path(__file__).parent.parent))
 from src.data_preparation.data_loader import load_bom_data, save_bom_data, split_data
 
 
+def load_data_from_path(input_path: str) -> list:
+    """
+    Load data from file or folder
+
+    Args:
+        input_path: Path to a JSON file or folder containing JSON files
+
+    Returns:
+        List of all loaded data
+    """
+    path = Path(input_path)
+
+    if path.is_file():
+        return load_bom_data(str(path))
+    elif path.is_dir():
+        all_data = []
+        json_files = sorted(path.glob("*.json"))
+
+        if not json_files:
+            raise ValueError(f"No JSON files found in folder: {input_path}")
+
+        for json_file in json_files:
+            print(f"  Loading: {json_file.name}")
+            data = load_bom_data(str(json_file))
+            all_data.extend(data)
+
+        print(f"  Loaded {len(json_files)} files")
+        return all_data
+    else:
+        raise ValueError(f"Path does not exist: {input_path}")
+
+
 def main():
     parser = argparse.ArgumentParser(description='Split data into train/val/test sets')
     parser.add_argument(
         '--input',
         type=str,
         required=True,
-        help='Input labeled data file (JSON)'
+        help='Input labeled data file (JSON) or folder containing JSON files'
     )
     parser.add_argument(
         '--train_ratio',
@@ -55,8 +87,8 @@ def main():
     args = parser.parse_args()
 
     print(f"Loading data from {args.input}...")
-    data = load_bom_data(args.input)
-    print(f"Loaded {len(data)} samples")
+    data = load_data_from_path(args.input)
+    print(f"Loaded {len(data)} samples total")
 
     print(f"\nSplitting data...")
     print(f"  Train: {args.train_ratio:.1%}")

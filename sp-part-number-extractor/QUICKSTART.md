@@ -6,7 +6,7 @@
 
 ```bash
 # 프로젝트 디렉토리로 이동
-cd part-number-extractor
+cd sp-part-number-extractor
 
 # venv 가상환경 생성
 python -m venv venv
@@ -22,7 +22,7 @@ venv\Scripts\Activate.ps1
 source venv/bin/activate
 
 # ✓ 프롬프트에 (venv) 표시 확인
-# 예: (venv) C:\part-number-extractor>
+# 예: (venv) C:\sp-part-number-extractor>
 ```
 
 ### 패키지 설치

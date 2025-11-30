@@ -26,7 +26,7 @@ Transformer 기반 NER(Named Entity Recognition) 모델을 활용하여 PCB BOM 
 
 ```bash
 # 프로젝트 클론 또는 다운로드
-cd part-number-extractor
+cd sp-part-number-extractor
 
 # ⚠️ 중요: venv 가상환경 생성 (필수!)
 python -m venv venv
@@ -62,7 +62,7 @@ python -c "import torch; print(f'CUDA available: {torch.cuda.is_available()}')"
 ## 📁 프로젝트 구조
 
 ```
-part-number-extractor/
+sp-part-number-extractor/
 ├── data/                    # 데이터 디렉토리
 │   ├── raw/                 # 원본 BOM 파일
 │   ├── processed/           # 전처리된 데이터

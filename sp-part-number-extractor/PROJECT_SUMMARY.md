@@ -31,7 +31,7 @@
   - 상세한 오류 분석 도구
 
 - ✅ **추론** (`src/inference/`)
-  - PartNumberPredictor: 단일/배치 예측
+  - SpPartNumberPredictor: 단일/배치 예측
   - 신뢰도 기반 필터링
   - 실시간 추론 엔진
 
@@ -65,7 +65,7 @@
 ## 📦 생성된 파일 목록
 
 ```
-part-number-extractor/
+sp-part-number-extractor/
 ├── README.md                          ✅ 메인 문서
 ├── QUICKSTART.md                      ✅ 빠른 시작
 ├── DEVELOPMENT.md                     ✅ 개발 노트

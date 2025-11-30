@@ -11,7 +11,7 @@ from pathlib import Path
 # Add project root to path
 sys.path.append(str(Path(__file__).parent.parent))
 
-from src.inference.predictor import PartNumberPredictor
+from src.inference.predictor import SpPartNumberPredictor
 from src.utils.logger import setup_logger
 
 
@@ -59,7 +59,7 @@ def main():
 
     # Load model
     logger.info(f"Loading model from {args.model_path}...")
-    predictor = PartNumberPredictor(args.model_path)
+    predictor = SpPartNumberPredictor(args.model_path)
 
     # Read input file
     logger.info(f"Reading input file: {args.input_file}")
